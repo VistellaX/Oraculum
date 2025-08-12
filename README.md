@@ -1,5 +1,5 @@
 # Oraculum
-An app that uses many divination systems to answer your questions and predict the Future.
+An app that uses many divination systems to answer your questions and gain insights into the future.
 
 how to use:
 - fixes your vision on image symbol and do your question. Exemple: "what the prevision for the next month?". you have the option of write the question in textbox too.
